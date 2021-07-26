@@ -1,1 +1,1 @@
-https://rom4e.github.io/rsschool-cv/
+https://rom4e.github.io/rsschool-cv/cv
